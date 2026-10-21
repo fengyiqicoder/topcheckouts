@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# AI 搜索与助手爬虫同样欢迎
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://topcheckouts.000ooo.ooo/sitemap.xml
