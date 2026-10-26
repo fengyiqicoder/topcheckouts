@@ -1,6 +1,6 @@
 # 闷声发大财 quietmoney
 
-https://topcheckouts.000ooo.ooo/
+https://quietmoney.000ooo.ooo/
 
 606 个不融资、不买量的出海网站，按 2026 年 9 月有多少次访问点进付款页排序。每个网站都有产品、渠道、发家路径三部分档案，中英双语；另有每周拆解增长最快 3 个网站的周报。
 
