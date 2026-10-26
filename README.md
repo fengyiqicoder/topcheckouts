@@ -1,13 +1,9 @@
-# TopCheckouts
+# 闷声发大财 quietmoney
 
-谁的付费页，每月被点开最多次。
+https://topcheckouts.000ooo.ooo/
 
-我们反查 Stripe、Gumroad、Lemon Squeezy、Polar、Creem、Whop 等 9 个收银台的引荐记录，统计每个网站每月有多少次访问点进了它的付费页，再筛出不靠投广告、靠产品自己增长的网站，并按新客来源分成 SEO、GEO、社交媒体、病毒传播和其他 5 类。
+606 个不融资、不买量的出海网站，按 2026 年 9 月有多少次访问点进付款页排序。每个网站都有产品、渠道、发家路径三部分档案，中英双语；另有每周拆解增长最快 3 个网站的周报。
 
-- 数据月份：2026 年 9 月（付费页访问对比 4–6 月均值）
-- 收录：607 个网站
-- 数据来源：Similarweb 与 Semrush 公开估算，官网定价页
+数据来自 Similarweb 与 Semrush 公开估算和官网。点进付费页不等于付款，不能直接换算成收入。
 
-数字都是第三方估算，点进付费页不等于付款，不能直接换算成收入。
-
-静态单页，直接打开 `index.html` 即可。
+本仓库只放生成好的静态页面，由 Desktop/quietmoney/scripts/build_site.py 生成。
