@@ -25,4 +25,4 @@ User-agent: Google-Extended
 Allow: /
 Disallow: /api/
 
-Sitemap: https://quietmoney.000ooo.ooo/sitemap.xml
+Sitemap: https://topcheckouts.000ooo.ooo/sitemap.xml
