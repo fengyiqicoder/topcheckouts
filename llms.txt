@@ -1,9 +1,0 @@
-# quietmoney 闷声发大财
-
-> 606 bootstrapped websites with no paid-ads engine, ranked by how many visits reached their checkout page last month. Sort by last month's gain, filter by how they started and where traffic comes from now. Each site has a three-part dossier: product, channels, growth path.
-
-- List (zh): https://topcheckouts.000ooo.ooo/
-- List (en): https://topcheckouts.000ooo.ooo/en/
-- Each site: https://topcheckouts.000ooo.ooo/s/<domain>/ and https://topcheckouts.000ooo.ooo/en/s/<domain>/
-- Data pack (15,000 sites, ¥29 one-time) + Claude Code skill: https://topcheckouts.000ooo.ooo/en/pro/
-- Weekly newsletter: https://topcheckouts.000ooo.ooo/en/newsletter/
